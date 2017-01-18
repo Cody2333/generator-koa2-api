@@ -1,7 +1,7 @@
 {
   "name": "generator-koa2-api",
-  "version": "1.0.2",
-  "description": "yeoman generator for creating node restful api using express and mongodb",
+  "version": "1.0.3",
+  "description": "yeoman generator for creating restful api using koa2 and other stuff",
   "author": {
     "name": "cody",
     "email": "wangkedi.wang@gmail.com"
